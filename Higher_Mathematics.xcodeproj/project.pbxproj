@@ -1,0 +1,273 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		C907B68C1F6B3A79006EE76D /* Higher_Mathematics.hpp in Headers */ = {isa = PBXBuildFile; fileRef = C907B68B1F6B3A79006EE76D /* Higher_Mathematics.hpp */; };
+		C907B68E1F6B3A79006EE76D /* Higher_MathematicsPriv.hpp in Headers */ = {isa = PBXBuildFile; fileRef = C907B68D1F6B3A79006EE76D /* Higher_MathematicsPriv.hpp */; };
+		C907B6901F6B3A79006EE76D /* Higher_Mathematics.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C907B68F1F6B3A79006EE76D /* Higher_Mathematics.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		C907B6881F6B3A79006EE76D /* libHigher_Mathematics.dylib */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.dylib"; includeInIndex = 0; path = libHigher_Mathematics.dylib; sourceTree = BUILT_PRODUCTS_DIR; };
+		C907B68B1F6B3A79006EE76D /* Higher_Mathematics.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Higher_Mathematics.hpp; sourceTree = "<group>"; };
+		C907B68D1F6B3A79006EE76D /* Higher_MathematicsPriv.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Higher_MathematicsPriv.hpp; sourceTree = "<group>"; };
+		C907B68F1F6B3A79006EE76D /* Higher_Mathematics.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Higher_Mathematics.cpp; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		C907B6851F6B3A79006EE76D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		C907B67F1F6B3A79006EE76D = {
+			isa = PBXGroup;
+			children = (
+				C907B68A1F6B3A79006EE76D /* Higher_Mathematics */,
+				C907B6891F6B3A79006EE76D /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		C907B6891F6B3A79006EE76D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C907B6881F6B3A79006EE76D /* libHigher_Mathematics.dylib */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C907B68A1F6B3A79006EE76D /* Higher_Mathematics */ = {
+			isa = PBXGroup;
+			children = (
+				C907B68B1F6B3A79006EE76D /* Higher_Mathematics.hpp */,
+				C907B68D1F6B3A79006EE76D /* Higher_MathematicsPriv.hpp */,
+				C907B68F1F6B3A79006EE76D /* Higher_Mathematics.cpp */,
+			);
+			path = Higher_Mathematics;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		C907B6861F6B3A79006EE76D /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C907B68C1F6B3A79006EE76D /* Higher_Mathematics.hpp in Headers */,
+				C907B68E1F6B3A79006EE76D /* Higher_MathematicsPriv.hpp in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		C907B6871F6B3A79006EE76D /* Higher_Mathematics */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C907B6931F6B3A79006EE76D /* Build configuration list for PBXNativeTarget "Higher_Mathematics" */;
+			buildPhases = (
+				C907B6841F6B3A79006EE76D /* Sources */,
+				C907B6851F6B3A79006EE76D /* Frameworks */,
+				C907B6861F6B3A79006EE76D /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Higher_Mathematics;
+			productName = Higher_Mathematics;
+			productReference = C907B6881F6B3A79006EE76D /* libHigher_Mathematics.dylib */;
+			productType = "com.apple.product-type.library.dynamic";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		C907B6801F6B3A79006EE76D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0830;
+				ORGANIZATIONNAME = maggot99999;
+				TargetAttributes = {
+					C907B6871F6B3A79006EE76D = {
+						CreatedOnToolsVersion = 8.3.3;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = C907B6831F6B3A79006EE76D /* Build configuration list for PBXProject "Higher_Mathematics" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = C907B67F1F6B3A79006EE76D;
+			productRefGroup = C907B6891F6B3A79006EE76D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				C907B6871F6B3A79006EE76D /* Higher_Mathematics */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		C907B6841F6B3A79006EE76D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C907B6901F6B3A79006EE76D /* Higher_Mathematics.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		C907B6911F6B3A79006EE76D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.13;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		C907B6921F6B3A79006EE76D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.13;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		C907B6941F6B3A79006EE76D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				EXECUTABLE_PREFIX = lib;
+				GCC_ENABLE_CPP_EXCEPTIONS = YES;
+				GCC_ENABLE_CPP_RTTI = YES;
+				GCC_SYMBOLS_PRIVATE_EXTERN = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		C907B6951F6B3A79006EE76D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				EXECUTABLE_PREFIX = lib;
+				GCC_ENABLE_CPP_EXCEPTIONS = YES;
+				GCC_ENABLE_CPP_RTTI = YES;
+				GCC_SYMBOLS_PRIVATE_EXTERN = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C907B6831F6B3A79006EE76D /* Build configuration list for PBXProject "Higher_Mathematics" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C907B6911F6B3A79006EE76D /* Debug */,
+				C907B6921F6B3A79006EE76D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C907B6931F6B3A79006EE76D /* Build configuration list for PBXNativeTarget "Higher_Mathematics" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C907B6941F6B3A79006EE76D /* Debug */,
+				C907B6951F6B3A79006EE76D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C907B6801F6B3A79006EE76D /* Project object */;
+}
