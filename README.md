@@ -1,0 +1,2 @@
+# Mathematical_Algorithms
+This repository represent a whole set of higher mathematical algorithms that used in different industries. To give ability anyone use them by knowing the name and call a function. The repository is written in C++ for best performance and structure based on object-orientation. The project will use generic classes, best practices in algorithms and functional programming to be future-proof in much complex applications.   
