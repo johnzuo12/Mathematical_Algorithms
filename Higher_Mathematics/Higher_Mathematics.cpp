@@ -2,7 +2,7 @@
  *  Higher_Mathematics.cpp
  *  Higher_Mathematics
  *
- *  Created by Kaspar on 14/09/2017.
+ *  Created by maggot99999 on 14/09/2017.
  *  Copyright © 2017 maggot99999. All rights reserved.
  *
  */
