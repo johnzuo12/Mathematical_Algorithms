@@ -11,6 +11,44 @@
 
 namespace Plane {
   
+  class _1D {
+    private:
+      int x;
+    
+    public:
+      _1D(int x);
+      int X();
+      void X(int x);
+  };
+  
+  class _2D {
+  private:
+    int x;
+    int y;
+    
+  public:
+    _2D(int x, int y);
+    int X();
+    int Y();
+    void X(int x);
+    void Y(int y);
+  };
+  
+  class _3D {
+  private:
+    int x;
+    int y;
+    int z;
+    
+  public:
+    _3D(int x, int y, int z);
+    int X();
+    int Y();
+    int Z();
+    void X(int x);
+    void Y(int y);
+    void Z(int z);
+  };
 
 }
 
