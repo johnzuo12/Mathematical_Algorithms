@@ -2,7 +2,7 @@
  *  Higher_MathematicsPriv.hpp
  *  Higher_Mathematics
  *
- *  Created by Eliza on 14/09/2017.
+ *  Created by Kaspar on 14/09/2017.
  *  Copyright © 2017 maggot99999. All rights reserved.
  *
  */
